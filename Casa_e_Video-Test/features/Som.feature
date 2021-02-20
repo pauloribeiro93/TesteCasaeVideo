@@ -1,7 +1,7 @@
 #language: pt
 
 Funcionalidade: Acessar a loja Casa e Video e Comprar um som
-    Como um cliente que ama musica eu quero comprar um caixa para minhas festas
+    Como um cliente que ama musica eu quero comprar uma caixa para minhas festas
 
     Cenário: Compra e validação de produto no carrinho
         Dado que eu acesso o site da casaevideo.com
