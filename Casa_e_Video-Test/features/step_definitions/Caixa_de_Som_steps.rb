@@ -22,9 +22,7 @@ Dado('que eu acesso o site da casaevideo.com') do
   
  Então ('valido se o produto foi para o carrinho de compra') do
   find(:css, '.cart-desktop .badge').text  eq '1'
-
-    #sleep(10)
-
+     
   end
 
 
