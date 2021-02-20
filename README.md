@@ -1,7 +1,7 @@
 # Teste Casa&Video
 
 ## Descrição do Projeto
-<p align="center">>Foi realizado um teste automatizado utilizando Ruby + Cucumber, para que possa realizar escolha de um produto e realizar a verificação se o item foi enviado para o carrinho.</p>
+<p align="center">>Foi realizado um teste automatizado utilizando Ruby + Cucumber+ BDD, para que possa realizar escolha de um produto e realizar a verificação se o item foi enviado para o carrinho.</p>
 <h1 align="center">
 	
 	## Tecnologia
