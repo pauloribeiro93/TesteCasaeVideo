@@ -2,7 +2,9 @@
 
 ## Descrição do Projeto
 <p align="center">>Foi realizado um teste automatizado utilizando Ruby + Cucumber+ BDD, para que possa realizar escolha de um produto e realizar a verificação se o item foi enviado para o carrinho.</p>
-![](https://raw.githubusercontent.com/pauloribeiro93/TesteCasaeVideo/master/Teste_CasaeVideo.gif)
+
+<img src="https://raw.githubusercontent.com/pauloribeiro93/TesteCasaeVideo/master/Teste_CasaeVideo.gif" width="200" height="200" />
+
 
 
 <h1 align="center">
