@@ -8,8 +8,8 @@
  
 Tecnologias utilizadas no projeto.
  
-* Ruby version  2.7.2p137
-* Cucumber version 5.3.0
+<h6>* Ruby version  2.7.2p137</h6>
+<h6>* Cucumber version 5.3.0</h6>
   
   
   
