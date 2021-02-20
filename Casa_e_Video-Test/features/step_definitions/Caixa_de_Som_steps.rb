@@ -21,7 +21,6 @@ Dado('que eu acesso o site da casaevideo.com') do
   
   
  Então ('valido se o produto foi para o carrinho de compra') do
-  #find(:css, '.mini-cart:nth-child(5) > #mini-cart-admake-aux tbody.cartSkuName').text to eq 'Caixa Acústica Bluetooth 180W Amvox Gigante ACA188'
   find(:css, '.cart-desktop .badge').text  eq '1'
 
     #sleep(10)
